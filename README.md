@@ -1,4 +1,4 @@
-# Thinkful-Portfolio
+
     
     Practice run for active portfolio on web development for Thinkful in order to gain experience and thorough understanding on portfolio creation.
     
